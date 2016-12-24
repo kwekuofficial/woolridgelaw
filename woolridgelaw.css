@@ -1,0 +1,83 @@
+a {
+  color: white;
+
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.address-info {
+  width: 240px;
+  margin: 0 0 0 0;
+  float: left;
+}
+
+body {
+  background-image: url("FIX_FINAL_PS_clean.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center;
+  border-bottom: solid 5px #FFF;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+header {
+  background-color: rgba(0,0,0,0.4);
+  color: #FFF;
+  border-bottom: 5px #FFF solid;
+}
+
+img {
+  width: 100%
+  height: auto;
+}
+
+footer {
+  color: #FFF;
+  margin:  800px 0 0 0;
+  background-color: #AFA599;
+  border-top: #FFF solid 10px;
+  width: 100%;
+}
+
+.footer-text {
+  margin: 20px 0 0 60px;
+  float: right;
+
+}
+
+footer ul li a {
+  color: #FFF;
+}
+
+.main-navigation ul li {
+  display: inline;
+  color: #FFF;
+  text-decoration: none;
+  font-size: 1.55em;
+
+}
+
+.main-navigation ul li a  {
+  text-decoration: none;
+  color: #FFF;
+}
